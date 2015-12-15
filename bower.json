@@ -1,0 +1,20 @@
+{
+  "name": "my-feed",
+  "version": "0.0.0",
+  "authors": [
+    "pmarashian <phillip.marashian@gmail.com>"
+  ],
+  "description": "Displays aggrigate from feeds",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
