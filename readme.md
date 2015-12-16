@@ -1,5 +1,7 @@
 ### My Feed
 
+Note: After looking at the Firebase docs, this app already was created :(  So, I'm going to shelf this for now.
+
 The idea for this app is to display an aggregate of the selected feeds.  Users can modify the feed list and the app will update the view.
 
 The app will use Firebase to store the user information.
