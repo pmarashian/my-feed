@@ -1,3 +1,7 @@
+*.sw*
+*~
+build/
+bin/
+node_modules/
+vendor/
 .idea
-node_modules
-bower_components

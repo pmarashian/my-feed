@@ -1,20 +1,12 @@
 {
   "name": "my-feed",
-  "version": "0.0.0",
-  "authors": [
-    "pmarashian <phillip.marashian@gmail.com>"
-  ],
-  "description": "Displays aggrigate from feeds",
-  "main": "",
-  "moduleType": [],
-  "license": "MIT",
-  "homepage": "",
-  "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "version": "0.0.1",
+  "devDependencies": {
+    "angular": "#latest",
+    "bootstrap": "~3.1",
+    "angular-bootstrap": "~0.10.0",
+    "angular-ui-router": "#latest",
+    "angular-mocks": "~1.4.8"
+  },
+  "dependencies": {}
 }
